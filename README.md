@@ -98,8 +98,8 @@ Also: a barcode-based **Smart Attendance System** used by 30+ faculty and 700+ s
 
 </div>
 
-**AI / ML:** Machine Learning · Deep Learning · Computer Vision · NLP · Generative AI · Explainable AI · RAG · Recommender Systems
-**Libraries:** PyTorch · Scikit-learn · XGBoost · Hugging Face Transformers · spaCy · OpenCV · NumPy · Pandas · Matplotlib
+**AI / ML:** Machine Learning · Deep Learning · Computer Vision · NLP · Generative AI · Explainable AI · RAG · Recommender Systems  
+**Libraries:** PyTorch · Scikit-learn · XGBoost · Hugging Face Transformers · spaCy · OpenCV · NumPy · Pandas · Matplotlib  
 **Tools:** Streamlit · Power BI · Tableau · Git · GitHub · AWS
 
 ---
