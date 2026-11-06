@@ -104,17 +104,6 @@ Also: a barcode-based **Smart Attendance System** used by 30+ faculty and 700+ s
 
 ---
 
-## 📊 GitHub stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=varunkaza20&show_icons=true&hide_border=true&title_color=D23C1D&icon_color=D23C1D&text_color=4B5450&bg_color=FFFFFF&border_radius=12" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varunkaza20&layout=compact&hide_border=true&title_color=D23C1D&text_color=4B5450&bg_color=FFFFFF&border_radius=12" alt="Top languages" />
-
-</div>
-
----
-
 ## 🎓 Certifications
 
 - Deep Learning Specialization, DeepLearning.AI
